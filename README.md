@@ -9,7 +9,6 @@
 <br>
 <br>
 <div align=center><h2>💚MY STACKS💚</h2></div>
-<br>
 <div align=center><h3>Design</h3></div>
 
 <div align=center>
