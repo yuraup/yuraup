@@ -1,17 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc4f5,130:d582ff&=auto&height=400&section=header&text=Yura%20Lee&fontSize=100&animation=scaleIn&fontColor=ffffff)
 
-## Hi there 👋 
-* ### I'm gonna be there, I'm getting better ♥ !
-* #### 항상 처음처럼 열심히 배우겠습니다!.!
-* #### 2022 목표는 코린이 탈출!
+## Hi there 👋
 
-<hr>
+- ### I'm gonna be there, I'm getting better ♥ !
+- #### 항상 처음처럼 열심히 배우겠습니다!.!
+- #### 2022 목표는 코린이 탈출!
 
 ## <center>🤍MY STACKS🤍</center>
+
 <br>
 
-## <center>**Design**</center>
 <div align="center">
+
+## <center>**Design**</center>
 <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
@@ -22,6 +23,7 @@
 <br>
 
 ## <center>**Languages**</center>
+
 <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -47,5 +49,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:b169d6,130:a9fcef&=auto&height=250&&section=footer&text=Have%20a%20good%20day!💜&fontSize=40&animation=blinking&fontColor=ffffff&fontAlign=60&fontAlignY=70)
-
-
