@@ -6,13 +6,13 @@
 - #### 항상 처음처럼 열심히 배우겠습니다!.!
 - #### 2022 목표는 코린이 탈출!
 
-<div align="center">
-
-## 🤍MY STACKS🤍
-
 <br>
+<br>
+<div align=center><h2>💚MY STACKS💚</h2></div>
+<br>
+<div align=center><h3>Design</h3></div>
 
-## **Design**
+<div align=center>
 <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
@@ -22,8 +22,10 @@
 <br>
 <br>
 
-## **Languages**
+</div>
 
+<div align=center><h3>Languages</h3></div>
+<div align=center>
 <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -32,11 +34,11 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-
 <br>
-
-## **Plus**
-
+<br>
+</div>
+<div align=center><h3>Plus</h3></div>
+<div align=center>
 <br>
  <img src= "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
