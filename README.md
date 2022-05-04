@@ -6,13 +6,13 @@
 - #### 항상 처음처럼 열심히 배우겠습니다!.!
 - #### 2022 목표는 코린이 탈출!
 
-## <center>🤍MY STACKS🤍</center>
+<div align="center">
+
+## 🤍MY STACKS🤍
 
 <br>
 
-<div align="center">
-
-## <center>**Design**</center>
+## **Design**
 <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-## <center>**Languages**</center>
+## **Languages**
 
 <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -35,7 +35,7 @@
 
 <br>
 
-## <center>**Plus**</center>
+## **Plus**
 
 <br>
  <img src= "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
