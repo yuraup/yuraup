@@ -47,6 +47,8 @@
 <br>
 <br>
 <br>
+  
+  ![Crmal's github stats](https://github-readme-stats.vercel.app/api?username=yuraup&show_icons=true&theme=radical)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:b169d6,130:a9fcef&=auto&height=250&&section=footer&text=Have%20a%20good%20day!💜&fontSize=40&animation=blinking&fontColor=ffffff&fontAlign=60&fontAlignY=70)
