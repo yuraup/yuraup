@@ -1,23 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc4f5,130:d582ff&=auto&height=400&section=header&text=Yura%20Lee&fontSize=100&animation=scaleIn&fontColor=ffffff)
-
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3E7D9,130:A7ECA1&=auto&height=400&section=header&text=Yura%20Lee&fontSize=100&fontColor=ffffff)
 ## Hi there 👋
 
-### I'm getting there by getting better ♥ !
-<!-- - #### 항상 처음처럼 열심히 배우겠습니다!.!
-- #### 2022 목표는 코린이 탈출! -->
-
+### I'm getting there by getting better
+</div>
 <br>
 <br>
-<div align=center><h2>💚MY STACKS💚</h2></div>
-<div align=center><h3>Design</h3></div>
+<div align=center><h2>MY STACKS</h2></div>
+<div align=center><h3>Design</h3>
+</div>
 
 <div align=center>
 <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 <br>
 <br>
 
@@ -41,14 +37,12 @@
 <br>
  <img src= "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br>
 <br>
 <br>
 <br>
 <br>
   
-  ![Crmal's github stats](https://github-readme-stats.vercel.app/api?username=yuraup&show_icons=true&theme=radical)
-</div>
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:B3E7D9,130:E7FFE4&=auto&height=250&&section=footer&text=Have%20a%20good%20day!✨&fontSize=40&animation=blinking&fontColor=ffffff&fontAlign=60&fontAlignY=70)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:b169d6,130:a9fcef&=auto&height=250&&section=footer&text=Have%20a%20good%20day!💜&fontSize=40&animation=blinking&fontColor=ffffff&fontAlign=60&fontAlignY=70)
+</div>
